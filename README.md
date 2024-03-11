@@ -15,4 +15,4 @@ The course covers a range of topics in machine learning and data mining, providi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/machine-learning-data-mining.git
+   git clone https://github.com/SemirBaldzhiev/ML24.git
